@@ -1,142 +1,24 @@
-<h1 align="center">Hi 👋, I'm Rishi Priya</h1>
+# 💫 About Me:
+👋 Hi, I'm Rishi Priya<br><br>🎓 B.Tech in Artificial Intelligence & Machine Learning<br><br>💻 Aspiring Software Engineer | Java Developer | Python Developer | AI & ML Enthusiast | DSA Learner<br><br>🔨 I'm currently working on:<br>• AI & Machine Learning Projects<br>• Java Development<br>• DSA Practice<br>• Full Stack Development Projects<br><br>🌱 I'm currently learning:<br>• Data Structures & Algorithms<br>• Java<br>• Python<br>• DBMS<br>• Operating Systems<br>• Computer Networks<br>• SQL<br><br>👯 I'm looking to collaborate on:<br>• Open Source Projects<br>• Java Applications<br>• AI & ML Projects<br>• Web Development Projects<br><br>🤝 I'm looking for help with:<br>• Advanced DSA<br>• Backend Development<br>• System Design<br>• Software Engineering Best Practices<br><br>💬 Ask me about:<br>• Java<br>• Python<br>• Object-Oriented Programming (OOP)<br>• Data Structures & Algorithms<br>• DBMS<br>• Operating Systems<br>• SQL<br>• AI & Machine Learning<br><br>🚀 Career Objective:<br>To secure a Software Engineer role where I can apply my programming, problem-solving, and AI skills to build impactful software solutions while continuously learning and growing.<br><br>⚡ Fun Fact:<br>I enjoy solving coding challenges, building real-world AI applications, and learning new technologies every day.<br><br>📫 Reach me at:<br>📧 rishipriyagoud2021@gmail.com<br>💼 LinkedIn: linkedin.com/in/rishi-priya8/<br>💻 GitHub: github.com/Rishipriya6256<br><br>⭐ Motto:<br>"Learn. Build. Solve. Grow."
 
-<h3 align="center">
-B.Tech in Artificial Intelligence & Machine Learning | Java Developer | Python Developer | AI & ML Enthusiast
-</h3>
 
-<p align="center">
-Passionate about building real-world software solutions, solving coding problems, and continuously learning modern technologies.
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi-priya888) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-priya8) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rishipriya8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishipriyagoud2021@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rishipriya6256&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rishipriya6256&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishipriya6256&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 👨‍💻 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rishipriya6256&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning
-- 💻 Interested in Software Development, AI/ML and Problem Solving
-- 🌱 Currently learning **Data Structures & Algorithms, Java, Python, DBMS, Operating Systems and System Design**
-- 🚀 Building AI and Full Stack Projects
-- 🎯 Goal: Software Engineer
-- 📚 Constantly improving coding, problem-solving and software development skills
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Java
-- Python
-- SQL
-- JavaScript
-
-### 🌐 Frontend
-- HTML5
-- CSS3
-- Bootstrap
-
-### 🤖 AI / Machine Learning
-- NumPy
-- Pandas
-- Scikit-Learn
-- OpenCV
-- Streamlit
-
-### 🗄️ Database
-- MySQL
-
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- Jupyter Notebook
-- Postman
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rishipriya6256&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Rishipriya6256&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 📌 Resume Analyzer
-- AI-powered Resume Analyzer using Python and NLP
-- Extracts resume information automatically
-- Compares resumes with job descriptions
-- Provides ATS-style resume analysis
-
-### 📌 Driver Drowsiness Detection
-- Real-time Driver Drowsiness Detection System
-- Built using OpenCV and Computer Vision
-- Detects eye closure and alerts drivers
-
-### 📌 Stream Compare App
-- Web application for comparing OTT streaming platforms
-- Displays pricing, plans and platform comparison
-- User-friendly search and comparison interface
-
----
-
-## 📚 Core Computer Science Subjects
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-
----
-
-## 🏆 Current Focus
-
-- Solving DSA problems daily
-- Building real-world projects
-- Strengthening Java & Python
-- Preparing for Software Engineer interviews
-- Improving problem-solving skills
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishipriya6256&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishipriya6256&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Rishipriya6256&theme=tokyonight)
-
----
-
-## 🏅 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rishipriya6256&theme=tokyonight&margin-w=10)
-
----
-
-## 📊 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rishipriya6256&theme=tokyo-night)
-
----
-
-## 💻 Coding Profiles
-
-- 🟢 LeetCode: https://leetcode.com/u/Rishi_Priya_01/
-- 🔵 GeeksforGeeks: https://www.geeksforgeeks.org/profile/rishipriyazcn9/
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: rishipriyagoud2021@gmail.com
-- 💼 LinkedIn: linkedin.com/in/rishi-priya8/
-- 💻 GitHub: https://github.com/Rishipriya6256
-
----
-
-## 💡 Quote
-
-> "Consistency beats intensity. Small improvements every day lead to big success."
-
-⭐ Thank you for visiting my profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
